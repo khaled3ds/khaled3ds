@@ -5,13 +5,18 @@ Building scalable software grounded in strong system-level fundamentals.
 
 ---
 
-## 🎓 Background
+## 🎓 Education
+
+🎓 Software Engineering Student  
+Jordan University of Science and Technology (JUST)
 
 💻 42 Amman  
-🌐 Networking Fundamentals – CCNAv7 (Introduction to Networks)  
-🧠 Project-based, peer-driven systems programming education  
+Project-based systems programming & peer-driven engineering model
 
-I focus on understanding how software works beneath the abstraction layer — from memory layout to process execution and system calls.
+🌐 CCNAv7 – Introduction to Networks  
+Foundational networking knowledge and infrastructure concepts
+
+I focus on understanding how software works beneath the abstraction layer — from memory layout and system calls to scalable backend architecture.
 
 ---
 
@@ -21,10 +26,10 @@ I focus on understanding how software works beneath the abstraction layer — fr
 - Process lifecycle & signal handling
 - Memory management & debugging
 - Algorithm optimization under constraints
-- Backend architecture fundamentals
+- Backend engineering fundamentals
 
 Long-term objective:  
-Design and build scalable backend systems backed by strong systems knowledge.
+Design and build scalable backend systems supported by strong systems knowledge.
 
 ---
 
