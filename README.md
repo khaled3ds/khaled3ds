@@ -58,7 +58,7 @@ Linux · Git · Bash · Makefile · VS Code
 
 ### 🔷 Systems Programming (C)
 
-**minishell**  
+**minishell-unix**  
 Custom Unix shell implementation  
 → Parsing engine, pipelines, redirections, builtins, signal handling
 
